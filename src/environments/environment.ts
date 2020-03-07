@@ -3,7 +3,8 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  services: 'https://www.pruebas.mark-43.net/mark43-service/',
 };
 
 /*
